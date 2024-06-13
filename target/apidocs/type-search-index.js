@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"edu.escuelaing.arsw.ASE.app","l":"CountLines"},{"p":"edu.escuelaing.arsw.ASE.app","l":"CountLinesLoc"},{"p":"edu.escuelaing.arsw.ASE.app","l":"CountLinesPhy"}];updateSearchResults();
