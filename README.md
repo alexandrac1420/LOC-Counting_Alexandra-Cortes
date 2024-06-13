@@ -86,8 +86,8 @@ You need to install the following tools and configure their dependencies:
     File: ExampleFile.java, Lines of code: 9
     File: ExampleFile1.java, Lines of code: 14
     ```
-![alt text](image.png)
-![alt text](image-1.png)
+![alt text](https://github.com/alexandrac1420/LOC-Counting_Alexandra-Cortes/blob/master/Pictures/image.png)
+![alt text](https://github.com/alexandrac1420/LOC-Counting_Alexandra-Cortes/blob/master/Pictures/image-1.png)
 
 ## The Readme Describing the Project. Include the LOC/h
 
@@ -98,7 +98,7 @@ This project provides a utility for counting physical lines and lines of code in
 This project provides a utility for counting physical lines and lines of code in Java source files and directories. It is designed to facilitate code analysis and metric gathering during software development.
 
 ### Performance Metrics (LOC/h)
-![alt text](image-3.png)
+![alt text](https://github.com/alexandrac1420/LOC-Counting_Alexandra-Cortes/blob/master/Pictures/image-3.png)
 The Lines of Code per hour (LOC/h) metric for this project is calculated based on the following data:
 
 - Total LOC: 51 + 43 + 21 + 39 + 6 + 6 = 166
@@ -175,7 +175,7 @@ Alexandra Cortes Tovar
 
 ### Class Diagram
 
-![alt text](image-2.png)
+![alt text](https://github.com/alexandrac1420/LOC-Counting_Alexandra-Cortes/blob/master/Pictures/image-2.png)
 
 ### Description of Class Diagram
 
