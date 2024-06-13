@@ -10,7 +10,6 @@ import edu.escuelaing.arsw.ASE.app.Resources.*;
 
 public class CountLinesTest extends TestCase {
 
-    // Redirigir la salida estándar para poder capturarla y verificarla
     private final ByteArrayOutputStream outContent = new ByteArrayOutputStream();
     private final PrintStream originalOut = System.out;
 

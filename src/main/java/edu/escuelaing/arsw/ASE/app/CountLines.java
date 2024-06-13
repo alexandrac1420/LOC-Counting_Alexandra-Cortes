@@ -49,7 +49,7 @@ public class CountLines {
                 if (file.isFile()) {
                     files.add(file);
                 } else if (file.isDirectory()) {
-                    findFiles(file, files); // Recursively find files in subdirectories
+                    findFiles(file, files); 
                 }
             }
         }

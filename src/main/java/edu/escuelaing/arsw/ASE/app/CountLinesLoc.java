@@ -24,7 +24,7 @@ public class CountLinesLoc {
         while ((line = br.readLine()) != null) {
             line = line.trim();
 
-            // Check for block comments
+            // Block comments
             if (line.startsWith("/*") && !line.endsWith("*/")) {
                 inBlockComment = true;
             }
@@ -35,12 +35,12 @@ public class CountLinesLoc {
                 continue;
             }
 
-            // Skip lines that are blank or start with single-line comments
+            // Blank lines
             if (line.isEmpty() || line.startsWith("//")) {
                 continue;
             }
 
-            // Check for inline block comment start and end
+            // Block comment
             if (line.startsWith("/*") && line.endsWith("*/")) {
                 continue;
             }
