@@ -24,12 +24,15 @@ hs_err_pid*
 replay_pid*
 
 # Ignorar todos los archivos y carpetas dentro de 'target'
-target/
+target/classes
+target/generated-sources
+target/generated-test-sources
+target/javadoc-bundle-options
+target/maven-archiver
+target/maven-status
+target/site
+target/surefire-reports
+target/test-classes
+target/testapidocs
 
-# Permitir la carpeta 'apidocs' dentro de 'target'
-!target/apidocs/
-
-# Permitir archivos específicos dentro de 'target'
-!target/countlines-1.0-SNAPSHOT-javadoc.jar
-!target/countlines-1.0-SNAPSHOT-test-javadoc.jar
-!target/countlines-1.0-SNAPSHOT.jar
+.vscode/
